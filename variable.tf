@@ -1,7 +1,7 @@
 variable "instancename" {
   description = "this is name of the instance"
   type = string
-  default = "terraform code"
+  default = "terraform new"
 }
 variable "inttype" {
   description = "this is name of the instance type"
