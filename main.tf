@@ -6,7 +6,7 @@ ami = var.amiid
 instance_type = var.inttype
 key_name = var.key
 availability_zone = var.Azone
-root_block-device {
+root_block_device {
 volume_size = var.vsize
 }
 }
