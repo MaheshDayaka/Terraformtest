@@ -3,4 +3,4 @@ inttype = "t3.micro"
  amiid = "ami-06067086cf86c58e6"
  key = "mar-keypair"
  vsize = 10
- Azone = "us-east-2b"
+ Azone = "us-east-1d"
