@@ -16,7 +16,6 @@ variable "amiid" {
 variable "key" {
   description = "name of the key pair"
   type = string
-  default = "name of the key pair"
   default = "mar-keypair"
 }
 variable "vsize" {
