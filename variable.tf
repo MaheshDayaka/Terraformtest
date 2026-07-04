@@ -23,3 +23,8 @@ variable "vsize" {
   type = number
   default = 10
 }
+variable "Azone" {
+  description = "availability sone"
+  type = string
+  default = "us-east-1a"
+}
